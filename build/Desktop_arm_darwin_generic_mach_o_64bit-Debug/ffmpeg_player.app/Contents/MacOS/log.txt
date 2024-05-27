@@ -1,0 +1,346 @@
+DemuxThread() - DemuxThread
+Init() - url:time.mp4
+Init() - audio_index 1, video_index 0
+Init() - Init leave
+AudioCodeParameters() - audio_index_ is 1
+Run() - Run start
+Init() - Init finish
+Init() - Init finish
+AudioCodeParameters() - audio_index_ is 1
+AudioCodeParameters() - audio_index_ is 1
+AudioCodeParameters() - audio_index_ is 1
+AudioCodeParameters() - audio_index_ is 1
+Run() - DecodeThread: Run Info
+Run() - DecodeThread: Run Info
+Run() - avcodec_send_packet packet_queue_ size 7
+AudioCodeParameters() - audio_index_ is 1
+Run() - ret = 0
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 1
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 2
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 3
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 4
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 5
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 6
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 7
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 8
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 9
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 10
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 11
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 12
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 13
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 14
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 15
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 16
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 17
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 18
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 19
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 20
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 21
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 22
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 23
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 24
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 25
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 26
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 27
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 28
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 29
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 30
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 31
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 32
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 33
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 34
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 35
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 36
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 37
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 38
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 39
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 40
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 41
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 42
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 43
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 44
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 45
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 46
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 47
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 48
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 49
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 50
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 51
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 52
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 53
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 54
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 55
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 56
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 57
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 58
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 59
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 60
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 61
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 62
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 63
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 64
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 65
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 66
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 67
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 68
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 69
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 70
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 71
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 72
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 73
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 74
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 75
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 76
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 77
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 78
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 79
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 80
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 81
+Run() - avcodec_send_packet packet_queue_ size 100
+Run() - ret = 0
+Run() - ret value is 0
+Run() - h264 frame queue size 82
+Run() - avcodec_send_packet packet_queue_ size 100
